@@ -3,12 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+/*Body*/
 body {
     color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
 }
-
+/*Beginning Header Style*/
 header {
     padding: 20px 35px;
     background-color: #39a6b2;
@@ -26,7 +26,7 @@ header a {
     text-decoration: none;
     color: #fce138
 }
-
+/*Beginning Navigation Style*/
 header nav {
     float: right;
     margin: 7px 0;
@@ -41,7 +41,7 @@ header nav ul li a {
     font-weight: lighter;
     font-size: 22px;
 }
-
+/*Beginning Footer Style*/
 footer {
     background: #fce138;
     width: 100%;
@@ -119,7 +119,7 @@ section {
     padding: 10px 20px;
     font-size: 16px;
 }
-
+/*Beginning What We Do Style*/
 .intro {
     text-align: center;
 }
@@ -132,7 +132,7 @@ section {
     font-size: 20px;
     margin: auto;
 }
-
+/*Beginning What You Do Style*/
 .steps {
     text-align: center;
     background: #fce138;
@@ -178,7 +178,7 @@ section {
 .steps span {
     font-size: 38px;
 }
-
+/*Beginning Meet The Trainers Style*/
 .trainers {
     text-align: center;
 }
@@ -225,7 +225,7 @@ section {
 .text-right {
     text-align: right;
 }
-/* Reach out section*/
+/*Beginning Reach out section Style*/
 .contact {
     text-align: center;
     background: #024e76;
@@ -234,12 +234,12 @@ section {
 .contact h2 {
     color: #fce138;
 }
-/*iframe*/
+/*Beginning iframe Style*/
 .contact-info iframe {
     width: 400px;
     height: 400px;
 }
-
+/*Beginning Contact Info*/
 .contact-info div {
     width: 410px;
     display: inline-block;
