@@ -79,7 +79,21 @@ section {
     justify-content: center;
     flex-wrap: wrap;
 }
-
+/*Hero Call to Action Style*/
+.hero-cta {
+    width: 35%;
+    text-align: right;
+    margin: 3.5%;
+    color: #fff;
+    font-size: 18px;
+    line-height: 1.3;
+}
+.hero-cta h2 {
+    font-style: italic;
+    font-size: 55px;
+    color: #fce138;
+}
+/*Hero Form Style*/
 .hero-form {
     color: #024e76;
     background-color: #fce138;
